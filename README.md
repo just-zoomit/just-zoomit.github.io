@@ -25,7 +25,6 @@ Happy Coding 🥳
 
 </p>
 
-##
 
 ## 🛠️ My Favourite Tools 
 
