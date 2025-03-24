@@ -42,7 +42,7 @@ Have questions or want to share what you've built? Connect with me on the Zoom D
  
  <hr/>
 
-## 🧰 Frameworks and libraries
+🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-430098.svg?logo=Discord&logoColor=white"></a>
@@ -51,7 +51,7 @@ Have questions or want to share what you've built? Connect with me on the Zoom D
 
 <hr/>
 
-## 🗄️ Databases and cloud hosting
+🗄️ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -60,7 +60,7 @@ Have questions or want to share what you've built? Connect with me on the Zoom D
 
 <hr/>
 
-## 💻 Software and tools
+💻 Software and tools
 
 <p>
     <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
